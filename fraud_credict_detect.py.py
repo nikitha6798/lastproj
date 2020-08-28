@@ -1,3 +1,6 @@
+'''
+we used dataset from kaggle:https://www.kaggle.com/mlg-ulb/creditcardfraud
+'''
 #!/bin/usr
 #-*-coding: utf-8-*-
 
